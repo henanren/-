@@ -12,7 +12,7 @@
 # 7、bootstrap 
 # 8、Android
 # 9、IOS
-#10、Nodejs
+# 10、Nodejs
 # 后端技术
 # 1、jsp servelet javabean
 # 2、springmvc spring hibernate mybatis Struts1 struts2
